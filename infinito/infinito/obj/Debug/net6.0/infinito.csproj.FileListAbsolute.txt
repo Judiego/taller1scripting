@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\bin\Debug\net6.0\infinito.exe
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\bin\Debug\net6.0\infinito.deps.json
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\bin\Debug\net6.0\infinito.runtimeconfig.json
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\bin\Debug\net6.0\infinito.dll
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\bin\Debug\net6.0\infinito.pdb
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\obj\Debug\net6.0\infinito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\obj\Debug\net6.0\infinito.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\obj\Debug\net6.0\infinito.AssemblyInfo.cs
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\obj\Debug\net6.0\infinito.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\obj\Debug\net6.0\infinito.dll
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\obj\Debug\net6.0\refint\infinito.dll
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\obj\Debug\net6.0\infinito.pdb
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\obj\Debug\net6.0\infinito.genruntimeconfig.cache
+C:\Users\USER\Documents\Taller\Ejercicios C#\infinito\infinito\obj\Debug\net6.0\ref\infinito.dll
